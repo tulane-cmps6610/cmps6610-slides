@@ -1,9 +1,12 @@
-# Module 03: Sequences
+# Module 04: Sequences
 
-- [01-sequences](01-sequences): overview, map/filter/append
-- [02-operators](02-operators): aggregation, reduce/scan 
-- [03-data-type](03-data-type): ArraySequence data type
-- [04-cost](04-cost): cost of sequences
-- [05-problems](04-problems): problem solving with sequences
+This module contains the following notebooks.
+
+| Notebook | Colab |
+| --- | --- |
+| 01-sequences: overview, map/filter/append | [Open in Colab](https://colab.research.google.com/github/tulane-cmps6610/cmps6610-slides/blob/main/module-04-sequences/01-sequences/01-sequence.ipynb) |
+| 02-operators: aggregation, reduce/scan | [Open in Colab](https://colab.research.google.com/github/tulane-cmps6610/cmps6610-slides/blob/main/module-04-sequences/02-operators/02-operators.ipynb) |
+| 03-scan: scan | [Open in Colab](https://colab.research.google.com/github/tulane-cmps6610/cmps6610-slides/blob/main/module-04-sequences/03-scan/03-scan.ipynb) |
+| 04-problems: problem solving with sequences | [Open in Colab](https://colab.research.google.com/github/tulane-cmps6610/cmps6610-slides/blob/main/module-04-sequences/04-problems/04-problems.ipynb) |
 
 
